@@ -8,6 +8,7 @@ Group:		Development/Other
 Source0:	%{name}-%{version}.tar.bz2
 
 URL:		http://apollo.backplane.com/xmake/
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 XMAKE is similar to other make's out there, but is specifically designed to
