@@ -1,6 +1,6 @@
 Name:		xmake
 Version:	1.06
-Release:	%mkrel 3
+Release:	%mkrel 5
 Summary:	XMAKE allows you to easily construct multiple complex dependencies
 License:	GPL
 Group:		Development/Other
