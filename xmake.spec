@@ -1,6 +1,6 @@
 Name:		xmake
 Version:	1.06
-Release:	8
+Release:	9
 Summary:	Allows you to easily construct multiple complex dependencies
 License:	GPL
 Group:		Development/Other
